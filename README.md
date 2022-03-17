@@ -27,11 +27,10 @@
  <br>
   
 ### :earth_americas: Me puedes encontrar en:
-- [Twitter](https://twitter.com/Herra310)
-- [Linkedin](https://www.linkedin.com/in/jorge-arath-herrera-romero-146013214/)
+- [Twitter](https://twitter.com/juanpaabr)
+- [Twitch](https://www.twitch.tv/burgu1t0)
 
 <!--
-**Herra310/Herra310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
