@@ -1,6 +1,5 @@
 ## Hola! me llamo Juan Pablo / Hi! I'm Juan Pablo
 <br>
-<img align='right' width="40%" src=""/>
 
 <h2 align="center"> Languages / Lenguajes💻</h2>
 
@@ -16,13 +15,13 @@
 
 <h2 align="center"> Frameworks🛠</h2>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="laravel" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 
 <h2 align="center"> Servicios / Services🛠</h2>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="laravel" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="laravel" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="laravel" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="laravel" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 
 <h2 align="center"> Tools / Herramientas🛠</h2>
 
@@ -32,9 +31,9 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android studio" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="android studio" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_webstorm.svg" alt="android studio" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="android studio" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
   </p>
   
   
