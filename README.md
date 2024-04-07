@@ -14,16 +14,21 @@
   </p>
 
 <h2 align="center"> Frameworks🛠</h2>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
+  <p>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/uwp.svg" alt="uwp" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  </p>
+    
 <h2 align="center"> Servicios / Services🛠</h2>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
+  <p>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  </p>
 
 <h2 align="center"> Tools / Herramientas🛠</h2>
 
